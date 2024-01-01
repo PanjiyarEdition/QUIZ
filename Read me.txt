@@ -1,0 +1,9 @@
+DB Name - quiz
+
+Admin Login:
+	id - admin@gmail.com
+	pass-12345
+
+User:
+	1. mail: panjiyar@gmail.com
+	    Pass: 12345

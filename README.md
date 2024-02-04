@@ -1,6 +1,6 @@
 <h1> QUIZ </h1>
 
-User Authentication:
+**User Authentication:**
 •	Implemented a secure user authentication system, allowing users to sign in and sign up for personalized quiz experiences.
 
 Quiz Testing:

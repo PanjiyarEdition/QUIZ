@@ -3,7 +3,7 @@
 **User Authentication:**
 •	Implemented a secure user authentication system, allowing users to sign in and sign up for personalized quiz experiences.
 
-Quiz Testing:
+**Quiz Testing:**
 •	Designed a user-friendly interface for users to start and participate in quiz tests.
 •	Incorporated rules and regulations, including the number of questions, negative marking, overall scoring, and time limits to enhance the quiz experience.
 

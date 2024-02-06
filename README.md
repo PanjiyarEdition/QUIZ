@@ -7,7 +7,7 @@
 •	Designed a user-friendly interface for users to start and participate in quiz tests.
 •	Incorporated rules and regulations, including the number of questions, negative marking, overall scoring, and time limits to enhance the quiz experience.
 
-Quiz History and Ranking:
+**Quiz History and Ranking:**
 •	Enabled users to access their quiz history and view rankings, fostering healthy competition and motivation.
 
 Feedback System:
